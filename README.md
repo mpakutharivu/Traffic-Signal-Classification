@@ -18,7 +18,7 @@ The notebook demonstrates the complete workflow:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 * Python
 * OpenCV
@@ -29,7 +29,7 @@ The notebook demonstrates the complete workflow:
 
 ---
 
-## 🧠 Key Concepts
+## Key Concepts
 
 * Image preprocessing techniques
 * Feature learning and classification
@@ -62,7 +62,7 @@ The trained model successfully classifies traffic signs with good accuracy, demo
 
 ---
 
-License
+## License
 
 This project is intended for educational and academic purposes .
 
